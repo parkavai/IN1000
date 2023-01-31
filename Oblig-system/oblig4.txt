@@ -1,0 +1,4 @@
+s1 s1o4.txt
+s2 s204.txt
+s3 s304.txt
+s4 s4o4.txt

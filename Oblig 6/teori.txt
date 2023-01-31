@@ -1,0 +1,21 @@
+Innkapsling: Innebærer å beskytte sensitive data og prosesser
+ved å pakke det inn i en boks slik at kun autoriserte brukere/kodere har adgang til
+dataene og prosessene inni boksen. Refereres vanligvis til bruk av private/protected
+instansvaruabler og konstruktører/getters/setters innenfor en klasse. For å angi om
+det er innkapsling, benyttes en understrek foran instansvariablen.
+
+Grensesnitt: Grensesnittet i en klasse kan sees som utformingen av en klasse, altså
+hvilke metoder som skal benyttes og hvordan de kommuniserer med hverandre
+for å kunne utføre gitte tjenester i et objekt. Består av navnet, parameterne og
+returtypen til alle prosedyrene og funksjonen dvs. alle metodene i en klasse.
+Den skiller seg fra implementasjon av at grensesnittet tar for seg metodene og
+hva de metodene gjør, om de returnerer verdi eller gjør noe annet.
+
+Implementasjon: Implementasjonen består av kodeblokkene som er innenfor skopet til alle prosedyrene
+og funksjonene dvs. alle metodene i en klasse. Handler om det som for metodene til å fungere,
+altså instansvariabler og prosessen bak for den gitte metoden.
+
+Instansmetode: I en instansmetode, er hensikten å lage et nytt objekt. Dette skiller
+seg fra prosedyrer/funksjoner da begge to har ulike "hensikter". En prosedyre
+utfører en gitt metode mens en funksjon returnerer en gitt verdi. Gjennom instansmetoder,
+får vi oppfylt begge "hensiktene" i ett.
